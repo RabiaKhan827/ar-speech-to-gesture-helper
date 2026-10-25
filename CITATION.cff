@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Augmented Reality Speech-to-3D Hand-Gesture Helper for Hearing-Impaired People"
+message: "If you use this software in your assistive HCI or multimodal speech-to-gesture research, please cite this repository."
+type: software
+authors:
+  - family-names: "Khan"
+    given-names: "Rabia"
+    email: "rabiakhan13309@gmail.com"
+    affiliation: "Department of Information Technology, University of Haripur & COMSATS University Islamabad"
+license: MIT
+version: 1.0.0
+date-released: "2026-10-25"
