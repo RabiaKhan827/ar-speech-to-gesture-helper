@@ -4,6 +4,7 @@ Real-time **assistive speech-to-3D hand-gesture synthesis**, lexical-prosodic gl
 
 ## Author & Academic Profile
 - **Author & Maintainer:** **Rabia Khan**
+- **Co-Author:** **Huzaifa Saleem Khan (GitHub: https://github.com/HuzaifaSaleemKhan)**
 - **Current Appointment:** Lecturer, Department of Information Technology, University of Haripur, Khyber Pakhtunkhwa, Pakistan
 - **Academic Credentials:**
   - **M.Sc. in Data Science**, Pak-Austria Fachhochschule: Institute of Applied Sciences & Technology (PAF-IAST), Haripur
